@@ -11,7 +11,7 @@ import redis.clients.jedis.Jedis;
  */
 public class RedisNormal {
 	
-    private static String ADDR = "106.14.35.103";
+    private static String ADDR = "127.0.0.1";
     private static int PORT = 6379;
     //private static String AUTH = "51270815";
     
